@@ -1,5 +1,5 @@
-# Мое резюме
+# About me (russian)
 
-## Результат можете посмотреть тут
+## You can see result here
 
-[Моя первая HTML & CSS работа](https://dr-mari.github.io/resume1/)
+[My first HTML & CSS project](https://dr-mari.github.io/resume1/)
